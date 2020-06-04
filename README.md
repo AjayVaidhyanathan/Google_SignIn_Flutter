@@ -1,6 +1,12 @@
 # google_signin
 
-A new Flutter project.
+Google sign in application using Google API
+
+### Made in Flutter
+
+<img src="https://github.com/AjayVaidhyanathan/Google_SignIn_Flutter/blob/master/screenshots/Screenshot_1591271980.png" width="350" height="650"/>
+
+<img src="https://github.com/AjayVaidhyanathan/Google_SignIn_Flutter/blob/master/screenshots/Screenshot_1591272004.png" width="350" height="650"/>
 
 ## Getting Started
 
