@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782325536215",
+    "firebase_url": "https://signin-c455a.firebaseio.com",
+    "project_id": "signin-c455a",
+    "storage_bucket": "signin-c455a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782325536215:android:0f88c7e97eb4bf3f43a792",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782325536215-rqkt6ar423am4dgej0h2lop9k3aero3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_signin",
+            "certificate_hash": "03835b7f897a234cd66aa8ccf326748a1bd9660b"
+          }
+        },
+        {
+          "client_id": "782325536215-t1g5nigvl5ni96a0nbjr6qu8j8qspq8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVeIa0_NKdDwlvxYPeyRvVVMW_xriMZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782325536215-t1g5nigvl5ni96a0nbjr6qu8j8qspq8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
